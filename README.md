@@ -4,11 +4,17 @@ If the product is available, it adds it to the cart and captures cart_result.png
 The script handles popups, multiple tabs, product availability validation, and screenshot capture using Selenium WebDriver in Chrome.
 
 **Steps for script:**
+
 source path-src/test/java
+
 package-assessment
+
 class file-Scenario1
+
 Screenshot folder-Screenshots
+
 project files-pom.xml and README.md
+
 
 The script according to the scenario is written inside "Scenario1" in "assessment" package inside "src/test/java".
 The "Screenshots" folder contains the screenshots for the same and it contains one more screenshot for a test check with other available product when "Add To Cart" button is enabled.
